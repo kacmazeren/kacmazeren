@@ -1,4 +1,5 @@
 Eren Kacmaz
+
 As an aspiring IT professional with a strong background in finance, I am keen to transition into the software development and business operations sector. My experience at Anadolubank has provided me with a unique perspective on the integration of technology solutions in business processes, where I actively engaged in numerous meetings with the IT department to contribute to the development and refinement of desktop applications, mobile applications and web pages.
 
 Technology Skills:
